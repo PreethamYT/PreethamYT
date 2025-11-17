@@ -2,5 +2,6 @@
 - 👀 I'm currently pursueing my B.Tech in Computer Science Engineering
 - 🌱 Currently focused on my sadhana and growth Overall
 - 🤝 I'm looking to contribute to open source projects whilst also trying to contribute to the overall wellbeing of the society
+- 🔥 Learning HTML, CSS & JS currently
 - 🏫 Open to learning and growth
 - ⚡ Bg : 2.47
