@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Preetham Rao
-- 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects..
-- ⚡ Fun fact: "Wake up Neo."
-
-
+- 👀 I'm currently pursueing my B.Tech in Computer Science Engineering
+- 🌱 Currently focused on my sadhana and growth Overall
+- 🤝 I'm looking to contribute to open source projects whilst also trying to contribute to the overall wellbeing of the society
+- 🏫 Open to learning and growth
+- ⚡ Bg : 2.47
